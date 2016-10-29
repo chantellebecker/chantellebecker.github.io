@@ -122,12 +122,6 @@ h6 {
     color: #f8f8f8;
     background: url(../img/pretty1.jpg) no-repeat center center;
     background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    height:100%;
-    min-height:100%;
 }
 
 .banner h2 {
