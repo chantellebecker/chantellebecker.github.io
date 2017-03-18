@@ -123,13 +123,14 @@ h6 {
 .banner {
     padding: 120px 0;
     color: #f8f8f8;
-    background: url(../img/bg.jpg) no-repeat center center;
+    background: linear-gradient(
+        rgba(20,20,20, .5), 
+        rgba(20,20,20, .5)),url(../img/bg.jpg) no-repeat center center;
     background-size: cover;
 }
 
 .banner h2 {
     margin: 0;
-    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
     font-size: 3em;
 }
 
@@ -152,7 +153,6 @@ h6 {
 @media(max-width:767px) {
     .banner h2 {
         margin: 0;
-        text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
         font-size: 3em;
     }
 
