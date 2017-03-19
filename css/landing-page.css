@@ -124,8 +124,8 @@ h6 {
     padding: 120px 0;
     color: #f8f8f8;
     background: linear-gradient(
-        rgba(20,20,20, .5), 
-        rgba(20,20,20, .5)),url(../img/bg.jpg) no-repeat center center;
+                     rgba(20,20,20, .5), 
+                     rgba(20,20,20, .5)),url(../img/bg.jpg) no-repeat center center;
     background-size: cover;
 }
 
